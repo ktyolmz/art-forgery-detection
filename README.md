@@ -1,7 +1,7 @@
 # Art Forgery Detection using Machine Learning
 
 This repository contains a machine learning project for detecting AI-generated art images. It utilizes ResNet50 for feature extraction and logistic regression for classification. [DeepFakeArt Challenge](https://github.com/h-aboutalebi/DeepfakeArt)
-dataset is used as the dataset for training and evaluation.
+dataset is used as the dataset for training and evaluation. More details can be found on research paper named "A Machine Learning Approach to Unmasking Art Forgery Detection and Analysis".
 
 ## Overview
 
